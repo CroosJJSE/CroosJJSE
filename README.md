@@ -7,7 +7,7 @@
 
 ### 🌟 A Quick Snapshot of Me:
 
-- 🏆 **Academic Excellence:** Ranked **1st in A/L 2019**, showcasing my commitment to hard work and learning.  
+- 🏆 **Academic Excellence:** District **1st** of **Mannar in A/L 2019**, showcasing my commitment to hard work and learning.  
 - 🌍 **Cultural Adaptability:** Adapted seamlessly to a Sinhala-speaking environment at university, building lasting friendships and learning the language.  
 - 🎨 **Graphic Design Leadership:** Became the **Graphic Coordinator** of the Electronics Club, proving my ability to lead diverse teams and deliver creative solutions.  
 - 💼 **Internship Success:** Received outstanding feedback for my **presentation skills** and **collaborative mindset** during my internship.  
