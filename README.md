@@ -40,6 +40,15 @@
 
 ---
 
+### 📂 My CVs:
+Take a deeper look at my skills and experiences:  
+- **[Business Analysis CV](<INSERT_BA_CV_LINK_HERE>)**  
+  Perfectly tailored for roles that blend business processes and technology.  
+- **[Digital Design CV](<INSERT_DIGITAL_DESIGN_CV_LINK_HERE>)**  
+  Showcasing my expertise in creative design and digital innovation.
+
+---
+
 ### 📫 Let's Connect:
 <p align="left">
   <a href="https://linkedin.com/in/subitsoncroos" target="blank">
@@ -58,4 +67,3 @@
 ### 🌱 Fun Fact:
 When I’m not solving complex problems or designing graphics, I enjoy brainstorming new ideas with my peers and learning new concepts in **business analysis** and **technology**.  
 Let’s collaborate and create something amazing together!
-
