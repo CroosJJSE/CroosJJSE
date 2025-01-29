@@ -42,10 +42,7 @@
 
 ### 📂 My CVs:
 Take a deeper look at my skills and experiences:  
-- **[Business Analysis CV](<INSERT_BA_CV_LINK_HERE>)**  
-  Perfectly tailored for roles that blend business processes and technology.  
-- **[Digital Design CV](<INSERT_DIGITAL_DESIGN_CV_LINK_HERE>)**  
-  Showcasing my expertise in creative design and digital innovation.
+- **[CV Folder](<https://drive.google.com/drive/folders/1u2Jos5IwIoHax0W5KXZYk1a12qyOap-_?usp=sharing>)**  
 
 ---
 
