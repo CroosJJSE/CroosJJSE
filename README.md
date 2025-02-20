@@ -59,7 +59,3 @@ Take a deeper look at my skills and experiences:
 </p>
 
 ---
-
-### 🌱 Fun Fact:
-When I’m not solving complex problems or designing graphics, I enjoy brainstorming new ideas with my peers and learning new concepts in **business analysis** and **technology**.  
-Let’s collaborate and create something amazing together!
